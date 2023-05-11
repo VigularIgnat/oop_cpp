@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677165908 source:c:\users\ignat\desktop\cpp projects\staks\abstractclass\abstract\main.cpp
+	<iostream>
+	<algorithm>
+	<array>
+
